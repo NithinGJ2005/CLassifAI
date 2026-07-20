@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 **ClassifAI** is a state-of-the-art web application powered by **Deep Learning** designed to automate waste segregation. Built with **Streamlit** and **TensorFlow**, it accurately identifies garbage types from images and provides actionable insights on:
 * **Material Classification:** (Glass, Plastic, Paper, Metal, Cardboard, Trash)
 * **Environmental Impact:** Real-time Carbon Footprint estimates.
@@ -19,7 +19,7 @@ Whether for educational purposes or smart recycling centers, ClassifAI makes sus
 
 ---
 
-## 🌟 Key Features
+## Key Features
 * **Real-Time Detection:** Upload images instantly to detect waste types.
 * **Advanced AI:** Powered by a fine-tuned **MobileNetV2** (Keras) model for high accuracy.
 * **Eco-Insights:** Displays the **Carbon Footprint** (CO₂ emission estimates) for every item detected.
@@ -28,7 +28,7 @@ Whether for educational purposes or smart recycling centers, ClassifAI makes sus
 
 ---
 
-## 📸 Interface Preview
+## Interface Preview
 
 | **Upload & Classify** | **Results & Insights** |
 |:---------------------:|:----------------------:|
@@ -36,7 +36,7 @@ Whether for educational purposes or smart recycling centers, ClassifAI makes sus
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 | :--- | :--- |
@@ -48,7 +48,7 @@ Whether for educational purposes or smart recycling centers, ClassifAI makes sus
 
 ---
 
-## 🏗️ Installation & Local Setup
+## Installation & Local Setup
 
 Follow these steps to run the app on your local machine.
 
@@ -80,7 +80,7 @@ streamlit run app.py
 ```
 The app should open automatically in your browser at http://localhost:8501.
 
-## 📝 Usage Guide
+## Usage Guide
 1. **Launch the App:** Open the link or run locally.
 
 2. **Upload Image:** Click "Browse Files" to select an image of waste (JPG, PNG).
@@ -93,7 +93,7 @@ The app should open automatically in your browser at http://localhost:8501.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Read the Carbon Footprint facts and SDG relevance.
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 ClassifAI/
 ├── artifacts/
@@ -115,7 +115,7 @@ ClassifAI/
 └── .gitignore                     # Git Ignore File
 ```
 
-## 🤝 Contributing
+## Contributing
 Contributions are always welcome! If you have ideas for new features (like Camera support or Geolocation), feel free to fork the repo.
 
 1. **Fork the repository.**
@@ -128,7 +128,7 @@ Contributions are always welcome! If you have ideas for new features (like Camer
 
 5. **Open a Pull Request.**
 
-## 📜 License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 <div align="center"> <p>Made with ❤️ by <b>Nithin G J</b></p> <p> <a href="https://github.com/NithinGJ2005"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="GitHub Profile" /> </a> <a href="https://classif-ai-a-garbage-classifier-app.streamlit.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit" alt="Live Demo" /> </a> </p> </div>
